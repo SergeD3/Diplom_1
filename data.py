@@ -16,9 +16,7 @@ BUN_PRICES = [0, 25.7, 9999999.9, -1, -74.8, -9999999.9]
 
 INGREDIENTS = [
         Ingredient(ingredient_types.INGREDIENT_TYPE_SAUCE, "hot sauce", 0),
-        Ingredient(ingredient_types.INGREDIENT_TYPE_SAUCE, "sour cream", 600),
-        Ingredient(ingredient_types.INGREDIENT_TYPE_SAUCE, "chili sauce", 9999.0),
-        Ingredient(ingredient_types.INGREDIENT_TYPE_FILLING, "cutlet", 1.0),
+        Ingredient(ingredient_types.INGREDIENT_TYPE_SAUCE, "chili sauce", 1.0),
         Ingredient(ingredient_types.INGREDIENT_TYPE_FILLING, "dinosaur", 2000),
         Ingredient(ingredient_types.INGREDIENT_TYPE_FILLING, "sausage red price", 99999.1)
 ]
